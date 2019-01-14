@@ -2,3 +2,4 @@
 *.rmd
 *.tex
 *.sh
+.ipynb_checkpoints/
